@@ -446,7 +446,7 @@
       <workItem from="1532093994992" duration="10146000" />
       <workItem from="1532182449599" duration="6317000" />
       <workItem from="1532191488906" duration="1026000" />
-      <workItem from="1532221236387" duration="15863000" />
+      <workItem from="1532221236387" duration="15927000" />
     </task>
     <task id="LOCAL-00001" summary="日志生成">
       <created>1532235821171</created>
@@ -473,7 +473,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39850000" />
+    <option name="totallyTimeSpent" value="39914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
