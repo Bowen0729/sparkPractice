@@ -1,8 +1,10 @@
 package com.G3.scala.logGerator
 
-import java.io.{File, PrintWriter}
+import java.io.{File, FileWriter, PrintWriter}
 import java.util.Date
+
 import org.apache.commons.lang.time.FastDateFormat
+
 import scala.util.Random
 
 /**
@@ -42,7 +44,7 @@ object logGerator{
     * @param count  日志行数
     */
   def inputToFile(count : Int): Unit = {
-    val writer = new PrintWriter(new File("C:\\Users\\Administrator\\Desktop\\文件\\log.txt"))
+    val writer =  new FileWriter("C:\\Users\\Administrator\\Desktop\\文件\\log.txt" , true)
     var counter = count
     while(counter >= 1){
       var log_str = sample_domain() + "\t" + sample_traffic() + "\t" + NowDate()
@@ -53,9 +55,7 @@ object logGerator{
   }
 
   def main(args: Array[String]): Unit = {
-    inputToFile(20)
+    inputToFile(10)
 //    print(sample_domain())
-
-
   }
 }
