@@ -55,7 +55,11 @@ object logGerator{
   }
 
   def main(args: Array[String]): Unit = {
-    inputToFile(10)
+    while (true){
+      print("写入" + "\n")
+      inputToFile(30)
+      Thread.sleep(90000)
+    }
 //    print(sample_domain())
   }
 }
