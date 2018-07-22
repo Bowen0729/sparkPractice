@@ -1,10 +1,11 @@
 package com.G3.scala.logGerator
 
-import java.io.{File, FileWriter, PrintWriter}
+import java.io.FileWriter
 import java.util.Date
 
 import org.apache.commons.lang.time.FastDateFormat
 
+import scala.collection.mutable.ListBuffer
 import scala.util.Random
 
 /**
@@ -12,8 +13,8 @@ import scala.util.Random
   */
 object logGerator{
 
-  val domain_list : List[String] = List("www.ruozedata.com","www.zhibo8.com","www.dongqiudi.com")
-  val traffic_list : List[_] = List(2000,"C罗",5000,-1000,6000,"ruoze",1100,800,-900,"messi")
+  val domain_list : ListBuffer[String] = ListBuffer("www.ruozedata.com","www.zhibo8.com","www.dongqiudi.com")
+  val traffic_list : ListBuffer[_] = ListBuffer(2000,"C罗",5000,-1000,6000,"ruoze",1100,800,-900,"messi")
 
   /*
     随机生成domain
@@ -57,7 +58,7 @@ object logGerator{
   def main(args: Array[String]): Unit = {
     while (true){
       print("写入" + "\n")
-      inputToFile(30)
+      inputToFile(1000)
       Thread.sleep(90000)
     }
 //    print(sample_domain())
