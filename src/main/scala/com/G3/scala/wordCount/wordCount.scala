@@ -4,7 +4,7 @@ object wordCount {
 
   def wc(wordList : List[String]) = {
 
-    wordList.map(x => (x,1)).groupBy(_._1).mapValues(_.size)
+    wordList.map((_,1)).groupBy(_._1).mapValues(_.size)
 
   }
 

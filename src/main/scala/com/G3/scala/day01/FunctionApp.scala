@@ -1,4 +1,4 @@
-package com.G3.scala.day1
+package com.G3.scala.day01
 
 /**
   * scala中函数的用法

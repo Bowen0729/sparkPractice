@@ -1,3 +1,4 @@
 # sparkPractice
-## scalikejdbc操作
-## 日志生成类
+##foundation
+### scalikejdbc operation
+### logGenerator
