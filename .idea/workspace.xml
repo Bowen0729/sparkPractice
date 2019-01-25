@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02cd6932-15f9-427e-9e27-a8cfb823355d" name="Default" comment="日志生成">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day04/FileImplicitApp.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day04/ImplicitApp.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day04/ImplicitAspect.scala" />
+    <list default="true" id="02cd6932-15f9-427e-9e27-a8cfb823355d" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/G3_test.iml" afterPath="$PROJECT_DIR$/G3_test.iml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/G3/scala/LogApp/LogApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/LogApp/LogApp.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/AbractApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/AbractApp.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/ContructApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/ContructApp.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/FunctionApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/FunctionApp.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/SimpleClassApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/day01/SimpleClassApp.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/G3/scala/wordCount/wordCount.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/G3/scala/wordCount/wordCount.scala" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/G3/scala/wordCount/wordCount$$anonfun$wc$1.class" afterPath="$PROJECT_DIR$/target/classes/com/G3/scala/wordCount/wordCount$$anonfun$wc$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/G3/scala/wordCount/wordCount$$anonfun$wc$2.class" afterPath="$PROJECT_DIR$/target/classes/com/G3/scala/wordCount/wordCount$$anonfun$wc$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/G3/scala/wordCount/wordCount$$anonfun$wc$3.class" afterPath="$PROJECT_DIR$/target/classes/com/G3/scala/wordCount/wordCount$$anonfun$wc$3.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,12 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImplicitApp.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImplicitApp.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/G3/scala/day04/ImplicitApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="260">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -524,7 +522,7 @@
       <workItem from="1540105493785" duration="1249000" />
       <workItem from="1540118884481" duration="3580000" />
       <workItem from="1548316890983" duration="13000000" />
-      <workItem from="1548381488354" duration="15105000" />
+      <workItem from="1548381488354" duration="15349000" />
     </task>
     <task id="LOCAL-00001" summary="日志生成">
       <created>1532235821171</created>
@@ -554,15 +552,21 @@
       <option name="project" value="LOCAL" />
       <updated>1532246134280</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1548428549027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548428549027</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140318000" />
+    <option name="totallyTimeSpent" value="140562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -574,8 +578,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3496732" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33006537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3496732" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33006537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3496732" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -604,7 +608,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="日志生成" />
-    <option name="LAST_COMMIT_MESSAGE" value="日志生成" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -744,6 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -937,17 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/G3/scala/day03/PartialFunctionApp.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1000,9 +995,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/G3/scala/day04/ImplicitApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="260">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
