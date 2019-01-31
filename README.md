@@ -1,4 +1,4 @@
 # sparkPractice
-##foundation
+## foundation
 ### scalikejdbc operation
 ### logGenerator
