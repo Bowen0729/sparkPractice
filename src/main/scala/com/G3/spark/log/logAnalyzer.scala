@@ -70,7 +70,7 @@ class logAnalyzer(fileName : String) {
     }).reduceByKey(_+_).take(10).foreach(println)
   }
 
-  //TODO..求每个域名下访问数最多的文件资源
+  //求每个域名下访问数最多的文件资源
   /**
     * ((domain,resources),1)
     *

@@ -30,13 +30,13 @@ object LogApp {
     val log = logAnalyzer(fileName)
     //求每个域名的流量
 //    log.printTrafficByDomain()
-    //TODO..求省份的访问次数
+    //求省份的访问次数
 //    log.printPVByProvince()
-    //TODO..求每个域名下访问数最多的文件资源
+    //求每个域名下访问数最多的文件资源
 //    log.printMaxPVResourcesByDomain()
-    //TODO..求访问次数最多的资源文件
+    //求访问次数最多的资源文件
     log.printMaxResources()
-    //TODO..关闭SparkContext
+    //关闭SparkContext
     log.stopSparkContext()
   }
 
